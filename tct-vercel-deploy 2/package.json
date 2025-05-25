@@ -9,9 +9,9 @@
     "start": "vite"
   },
   "dependencies": {
-    "@dnd-kit/core": "6.0.4",
-    "@dnd-kit/sortable": "6.0.3",
-    "@dnd-kit/utilities": "6.0.4",
+    "@dnd-kit/core": "6.0.2",
+    "@dnd-kit/sortable": "6.0.2",
+    "@dnd-kit/utilities": "6.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "vite": "^4.0.0"
